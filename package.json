@@ -1,0 +1,22 @@
+{
+  "name": "shadowizard",
+  "version": "1.0.0",
+  "description": "Add shadow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tajul-Islam/shadowizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Tajul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tajul-Islam/shadowizard/issues"
+  },
+  "homepage": "https://github.com/Tajul-Islam/shadowizard#readme"
+}
