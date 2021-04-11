@@ -1,13 +1,13 @@
 # Add Shadow Effect
 
-`````````````
+```
 import {shadowizard} from 'shadowizard';
 shadowizard({
       shadow_type: 'soft',
       padding: true,
       border_radius: 'round'
     });   
-```````````
+```
 
 # options
 
